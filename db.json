@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "The Broken Eye"
+    },
+    {
+      "title": "A Darker Shade of Magic"
+    },
+    {
+      "title": "Norse Mythology"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Brent Weeks"
+    },
+    {
+      "name": "V.E. Schwab"
+    },
+    {
+      "name": "Neil Gaiman"
+    }
+  ]
+}

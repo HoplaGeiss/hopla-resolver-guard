@@ -1,0 +1,10 @@
+{
+  "/api/authors": {
+    "target": "http://localhost:4000/authors",
+    "secure": false
+  },
+  "/api/books": {
+    "target": "http://localhost:4000/books",
+    "secure": false
+  }
+ }
